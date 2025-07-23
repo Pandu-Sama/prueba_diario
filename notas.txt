@@ -1,1 +1,2 @@
 Notas del dìa 2: Aprendiendo el flujo de Git
+Dìa 3: Inspeccionando cambios y el historial
