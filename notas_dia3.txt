@@ -1,0 +1,8 @@
+Hoy aprendì un poco màs del uso de Git, enfocandome especialmente en 
+sus argumentos. 
+- log muestra un historial de todos los commits(hash, autor, fecha y mensaje)
+- diff muestra los cambios desde el directorio de trabajo con respecto
+al ùltimo commit
+- diff --staged muestra los cambios del stage con respecto al ùltimo commit
+- show muestra el detalle de un commit en especial. Los cambios ocurridos
+
