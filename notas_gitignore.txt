@@ -1,0 +1,2 @@
+Archivos ignorados en un proyecto de [Godot/Django]:
+- [Lista los archivos o carpetas que investigaste]
