@@ -1,0 +1,4 @@
+Mis comandos favoritos para deshacer cambios son:
+- `git restore <archivo>': Me gusta porque es simple y me permite descartar cambios accidentales en un archivo sin tocar el historial.
+- 'git restore -staged <archivo>': Es ùtil cuando añado algo al staging por error y quiero corregirlo sin perder mis modificaciones.
+- 'git revert HEAD': Lo prefiero para deshacer commits en proyectos compartidos porque no altera el historial y es seguro para GitHub.
