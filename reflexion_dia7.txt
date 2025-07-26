@@ -1,0 +1,7 @@
+# Reflexiòn Dìa 7
+## Comando màs usado
+- git status
+## Lo màs difìcil
+- git revert
+## Què harìa distinto
+- En principio nada creo que voy bien encaminado
