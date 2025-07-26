@@ -1,2 +1,3 @@
 # Mi pregreso en Git
 - Aprendì a iniciar un repositorio con git init
+- Git es una herramienta poderosa para gestionar proyectos
