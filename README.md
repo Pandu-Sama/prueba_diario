@@ -4,4 +4,9 @@ Este es un proyecto para aprender Git.
 ## Objetivos
 - Aprender Git
 ## Estado del proyecto
-- Proyecto estable en main
+- Proyecto estable en main
+## Mejoras planeadas
+- Mejorar la documentaciòn del proyecto
+- Agregar ejemplos pràcticos
+## Estado del proyecto
+-Agregando mejoras a la documentacion
