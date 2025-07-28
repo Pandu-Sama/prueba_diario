@@ -6,3 +6,5 @@ Este es un proyecto para aprender Git.
 ## Mejoras planeadas
 - Mejorar la documentaciòn del proyecto
 - Agregar ejemplos pràcticos
+## Estado del proyecto
+-Agregando mejoras a la documentacion
