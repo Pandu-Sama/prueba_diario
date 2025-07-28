@@ -5,3 +5,4 @@ Este es un proyecto para aprender Git.
 - Aprender Git
 ## Mejoras planeadas
 - Mejorar la documentaciòn del proyecto
+- Agregar ejemplos pràcticos
