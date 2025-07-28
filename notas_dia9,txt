@@ -1,0 +1,9 @@
+# Notas Dìa 9: Funciones y conflictos 
+## Procedimiento
+- Cambiè a main: git switch main
+- Fusionè una rama: git merge nueva_funcionalidad 
+- Creè un conflicto editando README.md en main y mejora_documentacion
+- Intentè fusionar: git merge mejora_documentaciòn
+- Resolvì el conflicto editando README.md  manualmente
+- Confirmè la resoluciòn: git add README.md && git commit
+- Subì los cambios: git push origin main
