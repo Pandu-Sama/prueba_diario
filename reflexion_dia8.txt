@@ -1,0 +1,3 @@
+# Reflexiòn Dìa 8
+## Ventajas de usar ramas
+- Las ramas me permiten trabajar en diferentes tareas sin mezclar los cambios. Por ejemplo, puedo mejorar la documentaciòn en una rama y experimentar con nuevas notas en otra, sin afectar la rama principal (main). Esto hace que mi proyecto sea màs organizado y me da libertad para probar ideas sin miedo a romper algo.
