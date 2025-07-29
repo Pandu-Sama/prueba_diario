@@ -1,0 +1,3 @@
+# Notas Dìa 11: Stash y limpieza
+## Cuàndo es ùtil git stash
+- Git stash es ùtil cuando estoy trabajando en una tarea pero necesito cambiar de rama para corregir un error o hacer otra tarea urgente. Por ejemplo, si estoy modificando un archivo pero no quiero hacer commit aùn, puedo guardar los cambios con stash, trabajar en otra cosa, y luego retomar mi trabajo con git stash apply. Esto mantiene flexible y organizado.
