@@ -10,3 +10,4 @@ Este es un proyecto para aprender Git.
 - Agregar ejemplos pràcticos
 ## Estado del proyecto
 -Agregando mejoras a la documentacion
+Otra actulizaciòn en main
