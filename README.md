@@ -12,3 +12,5 @@ Este es un proyecto para aprender Git.
 -Agregando mejoras a la documentacion
 Otra actulizaciòn en main
 Tarea urgente
+Trabajo en curso para nueva secciòn
+Otra secciòn en README
