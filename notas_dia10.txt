@@ -1,0 +1,5 @@
+# Notas Dìa 10: Merge vs Rebase
+## Cuàndo usar merge
+- Prefiero merge en proyectos colaborativos porque preserva el historial de ramas y muestra còmo se trabajò en paralelo. Es màs seguro para equipos y para GitHub
+## Cuàndo usar rebase
+- Uso rebase en ramas locales para mantener un historial limpio antes de fusionar con main. Es ideal para proyectos personales o cuando quiero que el historial sea màs fàcil de leer.
