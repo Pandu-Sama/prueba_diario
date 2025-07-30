@@ -14,3 +14,4 @@ Otra actulizaciòn en main
 Tarea urgente
 Trabajo en curso para nueva secciòn
 Otra secciòn en README
+Preparando primera vesiòn
