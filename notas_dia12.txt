@@ -1,0 +1,5 @@
+# Notas Dìa 12: Tags y versiones
+## Diferencia entre commit y tag 
+- Un **commit** es un punto en el historial que guarda los cambios en los archivos, con un hash ùnico, autor y mensaje. Representa un paso en el desarrollo del proyecto
+- Un **tag** es un marcador que apunta a un commit especìfico , usado para señalar hitos importantes, como una versiòn (ej. v1.0.0). Los tags no cambian el contenido, solo lo etiquetan para referencia futura
+
