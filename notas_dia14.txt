@@ -1,0 +1,7 @@
+# Notas Día 14: Pull Requests 
+## Experiencia con Pull Requests
+- Creè una rama mejora_ui, hice cambios en README.md y subì la rama con git push -u origin mejora_ui.
+- Abrì un PR en Github, revisè los cambios y añadì un comentario sobre una lìnea especìfica.
+- Aprobè y fusionè el PR, luego actualicè mi repositorio local con git pull origin main.
+- Los PRs son ùtiles para revisar y documentar cambios antes de integrarlos, incluso cuando trabajo solo.
+
