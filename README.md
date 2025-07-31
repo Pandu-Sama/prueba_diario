@@ -16,3 +16,4 @@ Trabajo en curso para nueva secciòn
 Otra secciòn en README
 Preparando primera vesiòn
 Correcciòn menor en documentaciòn
+Actualizar desde clon
