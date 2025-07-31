@@ -17,3 +17,5 @@ Otra secciòn en README
 Preparando primera vesiòn
 Correcciòn menor en documentaciòn
 Actualizar desde clon
+## Mejoras en la interfaz
+- Agregando descripciòn de nueva UI
