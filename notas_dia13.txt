@@ -1,0 +1,6 @@
+# Notas Dìa 13: Trabajo remoto y colaboraciòn
+## Flujo fetch -> merge -> push
+- **git fetch**: Descarga los cambios del repositorio remoto (por ejemplo, origin/main) sin fusionarlos. Es putil para revisar què har de nuevo
+- **git merge**: Combina los cambios descargados con mi rama local (por ejemplo, main). Puedo hacerlo manualmente despuès de fetch para controlar la fusiòn,
+- **git push**: Envìa mis commits locales al repositorio remoto, actualizando origin/main para que otros vean mis cambios.
+- Este flujo me permite sincronizar mi trabajo con el equipo, asegurandome de integrar los cambios de otros antes de subir los mìos.
