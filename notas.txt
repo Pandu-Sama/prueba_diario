@@ -3,3 +3,4 @@ Dìa 3: Inspeccionando cambios y el historial
 Notas sobre ramas en Git
 - Las ramas son geniales para trabajar en paralelo
 Trabajo en curso sobre notas
+Cambio de colaborador simulado
