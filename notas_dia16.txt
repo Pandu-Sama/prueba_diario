@@ -1,0 +1,8 @@
+# Notas Dìa 16: Reflog y recuperaciòn 
+## Procedimiento de rescate con reflog
+- Hice varios commits en main para simular trabajo.
+- Usè git reset --hard HEAD~2 para eliminar los ùltimos dos commits.
+- Revisè el reflog con git reflog para envontrar el hash del commit perdido.
+- Usè git checkout <hash> para inspecionar el estado perdido.
+- Creè una rama con git branch rescate <hash> para recuperar los commits.
+- Fusionè la rama rescate en main y subì los cambios con git push.
