@@ -20,3 +20,4 @@ Actualizar desde clon
 ## Mejoras en la interfaz
 - Agregando descripciòn de nueva UI
 Cambio 1
+Cambio 2
