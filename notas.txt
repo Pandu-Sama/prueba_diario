@@ -5,3 +5,4 @@ Notas sobre ramas en Git
 Trabajo en curso sobre notas
 Cambio de colaborador simulado
 Cambio 2
+Cambio vàlido
