@@ -1,0 +1,4 @@
+# Notas Dìa 17: Git hooks
+## Hooks investigados
+- **pre-push**: Se ejecutan antes de un git push. Es ùtil para correr pruebas automàticas o verificar que el còdigo cumpla con estàndares de subirlo al remoto. Por ejemplo, podrìa ejecutar un linter o pruebas unitarias.
+- **commit-msg**: Se ejecutan despuès de escribir el mensaje de commit, pero antes de que se cree el commit. Es ideal para validar el formato del mensaje, como exigir un prefijo (ej. 'feat: ', 'fix: ') o una longitud mìnima.
