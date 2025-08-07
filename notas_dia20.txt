@@ -1,0 +1,5 @@
+# Notas Dìa 20: Cherry-pick
+## Cuàndo evitar git cherry-pick
+- Evitarìa cherry-pick cuando quiero integrar todos los cambios de una rama, ya que merge o rebase son màs adecuados para fusionar ramas completas.
+- No lo usarìa en ramas compartidas con otros, porque crea commits duplicados que pueden complicar el historial y causar conflictos.
+- Tambièn lo evitarìa si los commits dependen de otros (dependencias en el còdigo), ya que cherry-pick solo toma un commit y puede romper la funcionalidad.
