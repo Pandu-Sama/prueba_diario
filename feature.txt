@@ -1,1 +1,3 @@
 Funcionalidad nueva
+Funcionalidad A 
+Correccion de error
