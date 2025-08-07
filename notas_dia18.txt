@@ -1,0 +1,10 @@
+# Notas Dìa 18: Submòdulos
+## Còmo manejar actulizaciones de submòdulos
+- Para actualizar un submòdulo a un commit màs reciente:
+1. Entro al directorio del submòdulo: cd libreria
+2. Actualizo el submòdulo: git fetch && git checkout <commit_o_rama>
+3. Vuelvo al superproyecto: cd ..
+4. Confirmo el cambio: git add libreria && git commit -m "Actualizo submòdulo a nuevo commit"
+5. Subo los cambios: git push origin main
+- Para clonar un proyecto con submòdulos, uso: git clone --recurse-submodules <repo>
+- Para actualizar submòdulos en un clon existente: git submodule update --init --recursive
