@@ -1,0 +1,9 @@
+# Notas Dìa 19: Git bisect
+## Flujo de git bisect
+- Iniciè bisect con: git bisect start
+- Marquè el commit actual como malo: git bisect bad
+- Marquè un commit antiguo donde no habìa bug: git bisect good <hash>
+- Probè el script (./app.sh) en cada commit que Git seleccionò.
+- Marquè cada commit como good (si funcionaba) o bad (si fallaba) con git bisect good/bad 
+- Git idectificò el commit culpable (el que introdujo el bug).
+- Finalicè con: git bisect reset
