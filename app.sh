@@ -1,7 +1,4 @@
 #!/bin/bash
-echo "Aplicaciòn funcionando correctamente"
-
-Versiòn mejorada
-# Bug: Lìnea rota
-exit 1
-echo 'Añadiendo nueva funcionalidad'
+echo "Inicio del script"
+echo "Añadiendo fucionlidad"
+echo "Correciòn menor"
