@@ -1,0 +1,6 @@
+# Notas Dìa 22: Rebase interactivo
+## Còmo mejorar mensajes de commit 
+- Usar mensajes descriptivos que expliquen el propòsito del cambio, como 'Agrego validaciòn de argumentos' en lugar de 'Cambio.'
+- Con rebase -i, puedo usar 'reword' para corregir mensajes vagos o poco claros antes de compartir la rama.
+- Combinar commits relacionados con 'squash' para crear un mensaje ùnico que resema los cambios, como 'Implemento y corrijo funcionalidad X'.
+- Mantener mensajes en formato estàndar, como 'feat: Agrego X' o 'fix: Corrijo Y', para que sean claros y consistentes.
