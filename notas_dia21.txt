@@ -1,0 +1,5 @@
+# Notas Dìa 21: Git blame y anàlisis de historial
+## Còmo git blame y git log -L ayudan en mantenimientos futuros
+- **git blame**: Me permite identificar quièn cambiò una lìnea especìfica y en què commit, lo que es ùtil para depurar errores o preguntar al autor por què hizo el cambio.
+- **git log -L**: Ayuda a reatrear còmo evolucionò una funciòn o secciòn de còdigo, mostrando todos los commits que la modificaron. Es ideal para entender el contexto de un cambio.
+- En el mantenimiento, estas herramientas facilitan encontrar la causa de un bug o verificar si un cambio fue intencional, ahorrando tiempo en proyectos complejos.
