@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Versiòn Inicial"
+echo "Versiòn mejorada"
+
