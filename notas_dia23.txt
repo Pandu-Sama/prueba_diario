@@ -1,0 +1,9 @@
+# Notas Dìa 23: Flujos de trabajo avanzado
+## Flujo elegido: GitHun Flow
+### Ventajas
+- Simple y ràpido, ideal para proyectos pequeños o con despliegues frecuentes.
+- Los PRs facilitan la revisiòn y colaboraciòn en equipo.
+- Compatible con CI/CD, ya que main siempre està lista para producciòn.
+### Desventajas 
+- Puede volverse caòtico en proyectos grandes sin ramas de desarrollo separadas.
+- No soporta fàcilmente mùltiples versiones (como v1.0 y v2.0).
