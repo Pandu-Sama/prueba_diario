@@ -1,0 +1,7 @@
+# Notas Dìa 24: Buenas pràcticas en equipos
+## Còmo apliquè las convenciones
+- Creè CONTRIBUTING.md con reglas para nombre de ramas (feature/*, bugfix/*), mensaje de commit (Conventional Commits), y PRs descriptivos.
+- Añadì plantillas para issues y PRs en .github/ para estandarizar reportes y revisiones.
+- Apliquè las reglas en una rama feature/add-saludo con un commit claro y un PR detallado
+## Importancia
+- Estas pràcticas mantienen el respositorio organizado, facilitan la colaboraciòn y reducen errores en proyectos de equipo.
